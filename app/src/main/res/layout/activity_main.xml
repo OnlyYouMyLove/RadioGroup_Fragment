@@ -38,13 +38,13 @@
             android:id="@+id/msg_tab"
             style="@style/AppTab"
             android:drawableTop="@drawable/msg_tab_selectr"
-            android:text="@string/msg_tab_content" />
+            android:text="@string/msg_tab_name" />
 
         <RadioButton
             android:id="@+id/person_tab"
             style="@style/AppTab"
             android:drawableTop="@drawable/person_tab_selector"
-            android:text="@string/person_tab_content" />
+            android:text="@string/person_tab_name" />
     </RadioGroup>
 
 </LinearLayout>
